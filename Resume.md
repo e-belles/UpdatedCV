@@ -59,11 +59,13 @@ Represented Cornell University at competitions and at charity events. Individual
 * 10/2012-01/2013	Representative, Student-Athlete Advisory Committee (2 hrs/week)  
 Promoted athletic events and athlete involvement on campus with print and social media marketing. Organized, chaired, and participated in community outreach events and fundraisers for non-profits.
 
-### Languages 
+### Languages  
 
-English: Native Speaker  
-German: Level B1 on CEFR Scale  
-Dutch: Level B1 on CEFR Scale
+| Language | Level                  |
+|----------|------------------------|
+| English  | Native Speaker         |
+| Dutch    | Level B1 on CEFR Scale |
+| German   | Level B1 on CEFR Scale |
 
 ### Skills 
 * Computer: Microsoft Word, Excel, Intuit Quickbooks, STATA, github, open source software
